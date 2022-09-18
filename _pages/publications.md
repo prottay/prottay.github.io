@@ -8,13 +8,13 @@ author_profile: true
 Publications in International Jornals:
 ======
 
-J1. Real-Time Battery Energy Storage System Control using a Reconfigurable Synchrophasor-based Synchronization Gateway & Control (SSGC) Hardware System, Prottay M. Adhikari, Luigi Vanfretti, Koushik Kar, submitted at Elsevier International Journal of Electrical Power \& Energy Systems (IJEPES).
+J1._ Real-Time Battery Energy Storage System Control using a Reconfigurable Synchrophasor-based Synchronization Gateway & Control (SSGC) Hardware System_, **Prottay M. Adhikari**, Luigi Vanfretti, Koushik Kar, submitted at Elsevier International Journal of Electrical Power & Energy Systems (IJEPES).
 
-J2. Analysis of Transient Overvoltages and Self protection Overvoltage of PV Inverters through RT-CHIL", Prottay M. Adhikari, Luigi Vanfretti, Anja Banjac, Roland Bründlinger, Michael Ruppert, Michael Ropp, accepted in Elsevier Electric Power Systems Research (EPSR)".
+J2. _Analysis of Transient Overvoltages and Self protection Overvoltage of PV Inverters through RT-CHIL_, **Prottay M. Adhikari**, Luigi Vanfretti, Anja Banjac, Roland Bründlinger, Michael Ruppert, Michael Ropp, accepted in Elsevier Electric Power Systems Research (EPSR)".
 
-J3. "Experiments on ALSET Lab: Testing the Precision Timing and Communication Network for a Digital Power Grid Laboratory", Prottay M. Adhikari, Hossein Hooshyar, Randall J. Fitsik,  Luigi Vanfretti, in Elsevier Journal of Sustainable Energy, Grids and Network, 2021. [PDF]
+J3. _Experiments on ALSET Lab: Testing the Precision Timing and Communication Network for a Digital Power Grid Laboratory_, **Prottay M. Adhikari**, Hossein Hooshyar, Randall J. Fitsik,  Luigi Vanfretti, in Elsevier Journal of Sustainable Energy, Grids and Network, 2021. [PDF]
 
-J4. "Experimental Quantification of Hardware Requirements for FPGA-based Reconfigurable PMUs”   Prottay M. Adhikari , Hossein Hooshyar, Luigi Vanfretti  , in IEEE Access, April 2019. [PDF] 
+J4. _Experimental Quantification of Hardware Requirements for FPGA-based Reconfigurable PMUs_, **Prottay M. Adhikari** , Hossein Hooshyar, Luigi Vanfretti  , in IEEE Access, April 2019. [PDF] 
 
 
 
