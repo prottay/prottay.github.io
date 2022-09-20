@@ -1,9 +1,4 @@
----
-<!-- layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true -->
----
+
 
 In International Journals:
 ====
