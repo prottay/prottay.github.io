@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true -->
 ---
 
-Publications in International Journals:
+In International Journals:
 ======
 
 J1. _Real-Time Battery Energy Storage System Control using a Reconfigurable Synchrophasor-based Synchronization Gateway & Control (SSGC) Hardware System_, **Prottay M. Adhikari**, Luigi Vanfretti, Koushik Kar, submitted at Elsevier International Journal of Electrical Power & Energy Systems (IJEPES). 
 
-J2. _Analysis of Transient Overvoltages and Self protection Overvoltage of PV Inverters through RT-CHIL_, **Prottay M. Adhikari**, Luigi Vanfretti, Anja Banjac, Roland Bründlinger, Michael Ruppert, Michael Ropp, accepted in Elsevier Electric Power Systems Research (EPSR)".
+J2. _Analysis of Transient Overvoltages and Self protection Overvoltage of PV Inverters through RT-CHIL_, **Prottay M. Adhikari**, Luigi Vanfretti, Anja Banjac, Roland Bründlinger, Michael Ruppert, Michael Ropp, accepted in Elsevier Electric Power Systems Research (EPSR)". [📄](https://drive.google.com/file/d/14gbbeRBvGu9xIkxmqbotNrtp-HyYq3Ju/view?usp=sharing)
 
 J3. _Experiments on ALSET Lab: Testing the Precision Timing and Communication Network for a Digital Power Grid Laboratory_, **Prottay M. Adhikari**, Hossein Hooshyar, Randall J. Fitsik,  Luigi Vanfretti, in Elsevier Journal of Sustainable Energy, Grids and Network, 2021. [📄](https://drive.google.com/file/d/1gOxkQB3YLUv6naXgNeEMDSO2mzLnnrfs/view)
 
@@ -19,14 +19,14 @@ J4. _Experimental Quantification of Hardware Requirements for FPGA-based Reconfi
 
 
 
-Publications in Peer-Reviewed Conferences :
+In Peer-Reviewed Conferences :
 ======
 
 C1. _A Reconfigurable Synchrophasor Synchronization Gateway & Controller Architecture for DERs_, **Prottay M. Adhikari**, Luigi Vanfretti, Chetan Mishra, Kevin D. Jones,  accepted in IEEE International Conference on Smart Grid Synchronized Measurements & Analytics SGSMA 2022, Split, Croatia. [📄](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2022/CP210_Prottay_WACS_SGSMA_2022.pdf)
 
-C2. _Real-time Model Development of the IEEE Benchmark Distribution Feeder Test System for Microgrid Stability and Controls_, Hamed Nademi, James Choi, **Prottay. M. Adhikari**, Luigi Vanfretti, Shehab Ahmed, Kourosh Sedghisigarchi,  in IECON 2021 : Annual Conference of the IEEE Industrial Electronics Society 2021, Toronto, Ontario, Canada. 
+C2. _Real-time Model Development of the IEEE Benchmark Distribution Feeder Test System for Microgrid Stability and Controls_, Hamed Nademi, James Choi, **Prottay. M. Adhikari**, Luigi Vanfretti, Shehab Ahmed, Kourosh Sedghisigarchi,  in IECON 2021 : Annual Conference of the IEEE Industrial Electronics Society 2021, Toronto, Ontario, Canada. [📄](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2021/CP196_HN_RT_IEEE_MicrogridModel.pdf)
 
-C3. _SPOV Mechanism with Inverter Based Resources_, M. Ruppert, M. Roop, L. Vanfretti, and **Prottay M. Adhikari**, 75th Annual Georgia Tech Protective Relaying Conference, May 4-6, 2022 - Georgia Tech Hotel and Conference Center, Atlanta, GA.
+C3. _SPOV Mechanism with Inverter Based Resources_, M. Ruppert, M. Roop, L. Vanfretti, and **Prottay M. Adhikari**, 75th Annual Georgia Tech Protective Relaying Conference, May 4-6, 2022 - Georgia Tech Hotel and Conference Center, Atlanta, GA. [📄](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2022/CP214_Ruppert_SPOV_Inverter.pdf)
 
 C4. _FluxPMU — A Maker’s Guide of a DIY Synchronized Phasor Measurement Unit_, Emmett Williamson, Luigi Vanfretti, **Prottay M. Adhikari**, Jerry W. Dziuba,  David Laverty, in IEEE PES Conference on Innovative Smart Grid Technologies (ISGT) 2021, Washington DC. 
 
