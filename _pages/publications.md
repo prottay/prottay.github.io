@@ -1,6 +1,6 @@
 
-In International Journals:
-==
+##In International Journals:
+
 
 J1. _Real-Time Battery Energy Storage System Control using a Reconfigurable Synchrophasor-based Synchronization Gateway & Control (SSGC) Hardware System_, **Prottay M. Adhikari**, Luigi Vanfretti, Koushik Kar, submitted at Elsevier International Journal of Electrical Power & Energy Systems (IJEPES). 
 
@@ -13,8 +13,8 @@ J4. _Experimental Quantification of Hardware Requirements for FPGA-based Reconfi
 
 
 
-In Peer-Reviewed Conferences :
-==
+##In Peer-Reviewed Conferences :
+
 
 C1. _A Reconfigurable Synchrophasor Synchronization Gateway & Controller Architecture for DERs_, **Prottay M. Adhikari**, Luigi Vanfretti, Chetan Mishra, Kevin D. Jones,  accepted in IEEE International Conference on Smart Grid Synchronized Measurements & Analytics SGSMA 2022, Split, Croatia.[📄](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2022/CP210_Prottay_WACS_SGSMA_2022.pdf)
 
