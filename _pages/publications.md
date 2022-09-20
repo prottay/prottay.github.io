@@ -6,7 +6,7 @@ author_profile: true -->
 ---
 
 In International Journals:
-======
+====
 
 J1. _Real-Time Battery Energy Storage System Control using a Reconfigurable Synchrophasor-based Synchronization Gateway & Control (SSGC) Hardware System_, **Prottay M. Adhikari**, Luigi Vanfretti, Koushik Kar, submitted at Elsevier International Journal of Electrical Power & Energy Systems (IJEPES). 
 
@@ -20,7 +20,7 @@ J4. _Experimental Quantification of Hardware Requirements for FPGA-based Reconfi
 
 
 In Peer-Reviewed Conferences :
-======
+====
 
 C1. _A Reconfigurable Synchrophasor Synchronization Gateway & Controller Architecture for DERs_, **Prottay M. Adhikari**, Luigi Vanfretti, Chetan Mishra, Kevin D. Jones,  accepted in IEEE International Conference on Smart Grid Synchronized Measurements & Analytics SGSMA 2022, Split, Croatia.[📄](https://sites.ecse.rpi.edu/~vanfrl/documents/publications/conference/2022/CP210_Prottay_WACS_SGSMA_2022.pdf)
 
@@ -32,11 +32,11 @@ C4. _FluxPMU — A Maker’s Guide of a DIY Synchronized Phasor Measurement Unit
 
 C5. _Real-Time Controller Hardware-in-the-Loop (RT CHIL) Analysis of Ground Fault Overvoltages (GFOVs)_, **Prottay M. Adhikari**, Luigi Vanfretti, Michael Ruppert, Michael Ropp, in IEEE 2021 CIGRE US National Committee (USNC) Grid of the Future (GOTF) Symposium.[📄](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2021/CP197_GFOV_CIGRE_GOTF.pdf)
 
-C6. _Cross Platform Real Time Simulation Models for Li-ion Batteries in Opal-RT and Typhoon HIL_, Xinlan Jia, **Prottay M. Adhikari** , Luigi Vanfretti , in IEEE Texas Power and Energy Conference (2021), Texas A & M University, College Station, TX. 
+C6. _Cross Platform Real Time Simulation Models for Li-ion Batteries in Opal-RT and Typhoon HIL_, Xinlan Jia, **Prottay M. Adhikari** , Luigi Vanfretti , in IEEE Texas Power and Energy Conference (2021), Texas A & M University, College Station, TX.[📄](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2021/CP183_Battery_Modeling.pdf) 
 
-C7. _A Mobile Test-Bed for Synchrophasor Technologies Teaching and Demonstration_, Luigi Vanfretti, Emmett Williamson, **Prottay M. Adhikari**, Jordan Grey, Jerry W. Dziuba , Kevin D. Jones, John D. Grimes Jason Weaver, Matthew Gardner, in IEEE Texas Power and Energy Conference (2021), Texas A & M University, College Station, TX. 
+C7. _A Mobile Test-Bed for Synchrophasor Technologies Teaching and Demonstration_, Luigi Vanfretti, Emmett Williamson, **Prottay M. Adhikari**, Jordan Grey, Jerry W. Dziuba , Kevin D. Jones, John D. Grimes Jason Weaver, Matthew Gardner, in IEEE Texas Power and Energy Conference (2021), Texas A & M University, College Station, TX.[📄](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2021/CP182_DominionRack.pdf)
 
-C8. _ALSET Lab: Designing Precise Timing and Communications for a Digital Power Grid Laboratory_, Hossein Hooshyar, Luigi Vanfretti, Joe H. Chow, Randall Fitsik, **Prottay M. Adhikari**,  in Power and Energy Society General Meeting (PESGM) 2020, Montreal, Canada.
+C8. _ALSET Lab: Designing Precise Timing and Communications for a Digital Power Grid Laboratory_, Hossein Hooshyar, Luigi Vanfretti, Joe H. Chow, Randall Fitsik, **Prottay M. Adhikari**,  in Power and Energy Society General Meeting (PESGM) 2020, Montreal, Canada.[📄](https://ecse.rpi.edu/~vanfrl/documents/publications/conference/2020/CP172_ALSET_PESGM2020_V2.pdf)
 
 C9. _Real-Time Simulation Models for Photovoltaic Cells and Arrays in Opal-RT and Typhoon-HIL_, Xinlan Jia, **Prottay M. Adhikari** , Luigi Vanfretti , Power and Energy Society General Meeting (PESGM) 2020, Montreal, Canada.
 
