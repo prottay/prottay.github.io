@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true -->
 ---
 
-Publications in International Jornals:
+Publications in International Journals:
 ======
 
 J1. _Real-Time Battery Energy Storage System Control using a Reconfigurable Synchrophasor-based Synchronization Gateway & Control (SSGC) Hardware System_, **Prottay M. Adhikari**, Luigi Vanfretti, Koushik Kar, submitted at Elsevier International Journal of Electrical Power & Energy Systems (IJEPES). 
