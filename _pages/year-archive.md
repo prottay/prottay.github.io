@@ -1,3 +1,10 @@
+---
+<!-- layout: archive
+title: "Experiences"
+permalink: /year-archive/
+author_profile: true -->
+---
+
 
 # Academic Research/Experience:
 
