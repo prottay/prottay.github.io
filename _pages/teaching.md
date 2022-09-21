@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive
-title: "Academics"
+title: ""
 permalink: /teaching/
 author_profile: true -->
 ---
