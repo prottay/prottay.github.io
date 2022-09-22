@@ -20,7 +20,7 @@ author_profile: true -->
 2. Graduate Research Assistant, [EmSys Lab, IIT Bombay](https://www.ee.iitb.ac.in/web/research/labs/emsys) (2013-2016)
     - Implementation and testing of a C-to-FPGA pathway based on AHIR v2 tools.
     - Management and maintenance of reconfigurable computing resources. 
-    - Experimentation with \textit{IMAGE} Simulation Accelerator for Xilinx FPGAs.   
+    - Experimentation with _IMAGE_ Simulation Accelerator for Xilinx FPGAs.   
     - Low-level modeling of Modular Multilevel Converters for real-time implementation.  
     - Real-time predictor development for Modular Multilevel Converters.
 
