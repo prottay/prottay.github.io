@@ -6,7 +6,7 @@ author_profile: true -->
 ---
 
 
-## Academic Research/Experience:
+### Academic Research/Experience:
 
 1. Graduate Research Assistant | [ALSET Lab, Rensselaer Polytechnic Institute](https://alsetlab.github.io/) (2017-2021)
     - FPGA based Phasor Measurement Unit implementation and verification. 
@@ -24,7 +24,7 @@ author_profile: true -->
     - Low-level modeling of Modular Multilevel Converters for real-time implementation.  
     - Real-time predictor development for Modular Multilevel Converters.
 
-## Industrial Experience: 
+### Industrial Experience: 
 
 1. Specialist | **DERMS Center of Excellence, Eaton** (2022-present)
     - Communication protocols for real-time industrial applications. 
