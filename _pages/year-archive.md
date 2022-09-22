@@ -37,5 +37,5 @@ author_profile: true -->
     - Improved automation of NY-state model comparison between PSSE and RSCAD. 
   
 3. Digital Design Engineer | **ARM** (2016-2017)
-    -Validation of software-models for ARM v8, R class and A class processors. 
-    -Implementation of Interrupt Service Routines and test-automation. 
+    - Validation of software-models for ARM v8, R class and A class processors. 
+    - Implementation of Interrupt Service Routines and test-automation. 
