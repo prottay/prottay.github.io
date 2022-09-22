@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true -->
 ---
 
-# Qualifications
+## Qualifications
 
 1. Ph.D. in Electrical Engineering (2021)
   - [Rensselaer Polytechnic Institute](https://en.wikipedia.org/wiki/Rensselaer_Polytechnic_Institute)
@@ -21,6 +21,12 @@ author_profile: true -->
   - [IIEST (BESU) Shibpur](https://en.wikipedia.org/wiki/IIEST,_Shibpur)
 
 
+## Awards, Services & Memberships:
 
-
+1. Reviewer at SGSMA 2019, IEEE Trans. on Industrial Electronics, PESGM 2020-2021, ISGT 2021.
+2. Recipient of **J.S.Baliga Graduate Student Award** from Department of ECSE, RPI (2017-2018). 
+3. Recipient of _IITB Research Assistantship_ from **MHRD, Govt of India**.(2013-2016).
+4. Recipient of Graduate Student Travel Grant for IEEE SGSMA 2019 to College Station, Texas.
+5. Member of _GAABESU, IITBAA_.
+6. Member of _IEEE, PES Chapter_, Schenectady. 
 
