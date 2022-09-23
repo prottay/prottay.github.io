@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Align left (works fine):**
+**PMU Pre-compliance test-suite:**
 
 <img align="right" width="35%" src="https://user-images.githubusercontent.com/6533632/191937875-22fb1072-202e-4e8b-bdda-5f5ac7e5d33d.gif">
 
@@ -18,8 +18,13 @@ redirect_from:
 - A prototype PMU is put under the tests (using our test-suite) and its performance is analyzed and compared with the others available in literature.
 
 
-## Network Tamperting Experiments with PMUs:
+**PMU Pre-compliance test-suite:**
+
+<img align="left" width="35%" src="https://user-images.githubusercontent.com/6533632/191942657-3789afaf-bcd0-4fd2-9f74-8f5eb8c771bd.gif">
+
+-  Investigates the presence and effect of Ground Fault Overvoltage (GFOV) phenomenon in Grid-Connected PV inverters. 
+-  Examines whether conventional neutral grounding, which eliminates this GFOV issue in synchronous generators- are necessary for inverter-based systems. 
+-  Tests the effectiveness of SPOV mechanism against GFOV and LROV. 
 
 
-rophasor Synchornization Gateway & Controller (SSGC):
 
