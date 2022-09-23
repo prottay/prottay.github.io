@@ -11,7 +11,7 @@ redirect_from:
 
 **Align left (works fine):**
 
-<img align="left" width="33%" src="https://i.stack.imgur.com/RJj4x.png">
+<img align="left" width="33%" src="https://user-images.githubusercontent.com/6533632/191936123-b03de710-4bf2-4436-815d-939e42fa9616.gif">
 
 [Arduino](https://en.wikipedia.org/wiki/Arduino) (/ɑːrˈdwiːnoʊ/) is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices. Its hardware products are licensed under a [CC-BY-SA][4] license, while software is licensed under the GNU Lesser General Public License (LGPL) or the GNU General Public License (GPL),[1] permitting the manufacture of Arduino boards and software distribution by anyone. Arduino boards are available commercially from the official website or through authorized distributors. Arduino board designs use a variety of microprocessors and controllers. The boards are equipped with sets of digital and analog input/output (I/O) pins that may be interfaced to various expansion boards ('shields') or breadboards (for prototyping) and other circuits.
 
@@ -19,7 +19,7 @@ redirect_from:
 ## Network Tamperting Experiments with PMUs:
 
 
-## Synchrophasor Synchornization Gateway & Controller (SSGC):
+rophasor Synchornization Gateway & Controller (SSGC):
 
 1. Graduate Research Assistant, [ALSET Lab, Rensselaer Polytechnic Institute](https://alsetlab.github.io/) (2017-2021)
     - FPGA based Phasor Measurement Unit implementation and verification. 
