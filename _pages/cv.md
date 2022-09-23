@@ -18,13 +18,13 @@ redirect_from:
 - A prototype PMU is put under the tests (using our test-suite) and its performance is analyzed and compared with the others available in literature.
 
 
-**PMU Pre-compliance test-suite:**
+**GFOV investigation in RT for DERs:**
 
-<img align="left" width="35%" src="https://user-images.githubusercontent.com/6533632/191942657-3789afaf-bcd0-4fd2-9f74-8f5eb8c771bd.gif">
+<img align="right" width="35%" src="https://user-images.githubusercontent.com/6533632/191942657-3789afaf-bcd0-4fd2-9f74-8f5eb8c771bd.gif">
 
-*Tabspace* -  Investigates the presence and effect of Ground Fault Overvoltage (GFOV) phenomenon in Grid-Connected PV inverters. 
-*Tabspace* -  Examines whether conventional neutral grounding, which eliminates this GFOV issue in synchronous generators- are necessary for inverter-based systems. 
-*Tabspace* -  Tests the effectiveness of SPOV mechanism against GFOV and LROV. 
+ -  Investigates the presence and effect of Ground Fault Overvoltage (GFOV) phenomenon in Grid-Connected PV inverters. 
+ -  Examines whether conventional neutral grounding, which eliminates this GFOV issue in synchronous generators- are necessary for inverter-based systems. 
+ -  Tests the effectiveness of SPOV mechanism against GFOV and LROV. 
 
 
 
