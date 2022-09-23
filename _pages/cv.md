@@ -19,7 +19,7 @@ redirect_from:
 
 **Networking experiments on _Khorjin_ based synchrophasor synchornization gateway:**
 
-<img align="right" width="45%" src="https://user-images.githubusercontent.com/6533632/191948548-a831b3dd-161d-42b5-8dc0-e14ac464c68f.gif">
+<img align="left" width="45%" src="https://user-images.githubusercontent.com/6533632/191948548-a831b3dd-161d-42b5-8dc0-e14ac464c68f.gif">
 
  -  cRIO based HW-SW setup to parse, synchronize, timestamp, and display multiple C37.118 streams.  
  -  The PMU streams are corrupted with external networking hardware. 
