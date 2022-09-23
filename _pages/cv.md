@@ -22,9 +22,9 @@ redirect_from:
 
 <img align="left" width="35%" src="https://user-images.githubusercontent.com/6533632/191942657-3789afaf-bcd0-4fd2-9f74-8f5eb8c771bd.gif">
 
--  Investigates the presence and effect of Ground Fault Overvoltage (GFOV) phenomenon in Grid-Connected PV inverters. 
--  Examines whether conventional neutral grounding, which eliminates this GFOV issue in synchronous generators- are necessary for inverter-based systems. 
--  Tests the effectiveness of SPOV mechanism against GFOV and LROV. 
+  -  Investigates the presence and effect of Ground Fault Overvoltage (GFOV) phenomenon in Grid-Connected PV inverters. 
+  -  Examines whether conventional neutral grounding, which eliminates this GFOV issue in synchronous generators- are necessary for inverter-based systems. 
+  -  Tests the effectiveness of SPOV mechanism against GFOV and LROV. 
 
 
 
