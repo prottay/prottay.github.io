@@ -17,6 +17,7 @@ redirect_from:
 - The test-hardware can be easily controlled by a user from the GUI-based software designed in LabVIEW.
 - A prototype PMU is put under the tests (using our test-suite) and its performance is analyzed and compared with the others available in literature.
 
+------
 
 
 **Networking experiments on _Khorjin_ based synchrophasor synchornization gateway:**
@@ -27,6 +28,7 @@ redirect_from:
  -  The PMU streams are corrupted with external networking hardware. 
  -  The network is tampered with delay, data-drip and jitter to test its resillience.
 
+------
 
 
 
