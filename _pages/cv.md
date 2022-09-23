@@ -17,6 +17,8 @@ redirect_from:
 - The test-hardware can be easily controlled by a user from the GUI-based software designed in LabVIEW.
 - A prototype PMU is put under the tests (using our test-suite) and its performance is analyzed and compared with the others available in literature.
 
+
+
 **Networking experiments on _Khorjin_ based synchrophasor synchornization gateway:**
 
 <img align="right" width="40%" src="https://user-images.githubusercontent.com/6533632/191948548-a831b3dd-161d-42b5-8dc0-e14ac464c68f.gif">
@@ -24,6 +26,8 @@ redirect_from:
  -  cRIO based HW-SW setup to parse, synchronize, timestamp, and display multiple C37.118 streams.  
  -  The PMU streams are corrupted with external networking hardware. 
  -  The network is tampered with delay, data-drip and jitter to test its resillience.
+
+
 
 
 **GFOV investigation in RT for DERs:**
