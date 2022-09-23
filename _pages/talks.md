@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true -->
 ---
 
-## Talks
+## Presentations
 
 
 [1] _Real-Time Controller Hardware-in-the-Loop Study of Ground Fault Overvoltages in Inverter-Based DERs_, IEEE PES Colloquium 2021, Schenectady, New York. [📹](https://www.youtube.com/watch?v=6ypq8IHOLaU)
