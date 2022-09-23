@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Projects"
+title: "Real-time Demonstrations"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -40,5 +40,19 @@ redirect_from:
  -  Examines whether conventional neutral grounding, which eliminates this GFOV issue in synchronous generators- are necessary for inverter-based systems. 
  -  Tests the effectiveness of SPOV mechanism against GFOV and LROV. 
  -  Experiments repeated with different load pf, different generation-to-load ratios (GLR), different SPOV settings, and different grounding transformer sizes. 
+
+------
+
+**SSGC based resillient networked-control for BESS:**
+
+<img align="right" width="40%" src="https://user-images.githubusercontent.com/6533632/191949940-f7e03724-c765-4f7a-a931-f61edd3b6491.gif">
+
+ -  Implementation of a synchrophasor synchronization gateway and control (SSGC) hardware based on cRIO and _Khorjin_ library. 
+ -  SSGC houses the secondary control functionalities for BESS which runs in a microgrid simulated in Typhoon HIL 604. 
+ -  The network for the PMU placed at BESS is attacked with external hardware. 
+ -  Network delay, data-drops and jitters were injected in the network to test the robustness of the control-network.
+ -  An LPF was incorporated to get rid of all high frequency components of the control signal, to protect the Li-ion battery.  
+
+
 
 
