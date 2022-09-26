@@ -20,7 +20,6 @@ author_profile: true -->
 3. B.E. in Electrical Engineering (2013)
   - [IIEST (BESU) Shibpur](https://en.wikipedia.org/wiki/IIEST,_Shibpur)
 
-
 ## Awards, Services & Memberships:
 
 1. Reviewer at SGSMA 2019, IEEE Trans. on Industrial Electronics, PESGM 2020-2021, ISGT 2021.
@@ -29,4 +28,15 @@ author_profile: true -->
 4. Recipient of Graduate Student Travel Grant for IEEE SGSMA 2019 to College Station, Texas.
 5. Member of _GAABESU, IITBAA_.
 6. Member of _IEEE, PES Chapter_, Schenectady. 
+
+## Teaching and Mentorships:
+
+1. Teaching assistant for _Electronic Instrumentation_ (ENGR-2300), fall 2017. 
+    - Key responsibilities: Tutoring, hardware debugging, and assistance for a class of 100+ students. 
+    - Backend: Grading and scheduling. 
+2. Student mentorships.
+    - Xinlan Jia: Cross platform RT modelling of PV-cells, and Li-ion batteries. 
+    - Emmett Williamson: Low cost open source PMU development. 
+    - Brennan Loder: Testbed development for synchrophasor experimentation and training.
+
 
