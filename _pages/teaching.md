@@ -34,9 +34,9 @@ author_profile: true -->
 1. Teaching assistant for _Electronic Instrumentation_ (ENGR-2300), fall 2017. 
     - Key responsibilities: Tutoring, hardware debugging, and assistance for a class of 100+ students. 
     - Backend: Grading and scheduling. 
-2. Student mentorships.
-    - Xinlan Jia: Cross platform RT modelling of PV-cells, and Li-ion batteries. 
-    - Emmett Williamson: Low cost open source PMU development. 
-    - Brennan Loder: Testbed development for synchrophasor experimentation and training.
+2. Student mentorships:
+    - **Xinlan Jia**: Cross platform RT modelling of PV-cells, and Li-ion batteries. 
+    - **Emmett Williamson**: Low cost open source PMU development. 
+    - **Brennan Loder**: Testbed development for synchrophasor experimentation and training.
 
 
