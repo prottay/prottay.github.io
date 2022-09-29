@@ -10,7 +10,7 @@ author_profile: true -->
 
 J1. _Real-Time Battery Energy Storage System Control using a Reconfigurable Synchrophasor-based Synchronization Gateway & Control (SSGC) Hardware System_, **Prottay M. Adhikari**, Luigi Vanfretti, Koushik Kar, submitted at Elsevier International Journal of Electrical Power & Energy Systems (IJEPES). 
 
-J2. _Analysis of Transient Overvoltages and Self protection Overvoltage of PV Inverters through RT-CHIL_, **Prottay M. Adhikari**, Luigi Vanfretti, Anja Banjac, Roland Bründlinger, Michael Ruppert, Michael Ropp, accepted in Elsevier Electric Power Systems Research (EPSR)".[📄](https://drive.google.com/file/d/14gbbeRBvGu9xIkxmqbotNrtp-HyYq3Ju/view?usp=sharing)
+J2. _Analysis of Transient Overvoltages and Self protection Overvoltage of PV Inverters through RT-CHIL_, **Prottay M. Adhikari**, Luigi Vanfretti, Anja Banjac, Roland Bründlinger, Michael Ruppert, Michael Ropp, accepted in Elsevier Electric Power Systems Research (EPSR)".[📄](https://drive.google.com/file/d/1ni3L5i-RnBYsYZhgO5dd4sZFZR8ZFoXj/view)
 
 J3. _Experiments on ALSET Lab: Testing the Precision Timing and Communication Network for a Digital Power Grid Laboratory_, **Prottay M. Adhikari**, Hossein Hooshyar, Randall J. Fitsik,  Luigi Vanfretti, in Elsevier Journal of Sustainable Energy, Grids and Network, 2021.[📄](https://drive.google.com/file/d/1gOxkQB3YLUv6naXgNeEMDSO2mzLnnrfs/view)
 
