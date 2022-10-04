@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive
-title: "Experiences"
+title: ""
 permalink: /year-archive/
 author_profile: true -->
 ---
