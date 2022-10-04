@@ -17,7 +17,7 @@ author_profile: true -->
   - Advisor: Madhav Desai and Mukul Chandorkar
   - Thesis title: Implementation of A Capacitor-Voltage Prediction Scheme for Modular Multilevel Converters
 
-3. **B.E. **in Electrical Engineering (2013)
+3. **B.E.** in Electrical Engineering (2013)
   - [IIEST (BESU) Shibpur](https://en.wikipedia.org/wiki/IIEST,_Shibpur)
 
 ## Awards, Services & Memberships:
