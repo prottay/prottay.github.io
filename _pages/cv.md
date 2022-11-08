@@ -45,7 +45,7 @@ redirect_from:
 
 **SSGC based resillient networked-control for BESS:**
 
-<img align="right" width="40%" src="https://user-images.githubusercontent.com/6533632/191949940-f7e03724-c765-4f7a-a931-f61edd3b6491.gif">
+<img align="right" width="40%" src="https://user-images.githubusercontent.com/6533632/200471835-15738857-0e7c-47aa-95dc-2611f8115c04.gif">
 
  -  Implementation of a synchrophasor synchronization gateway and control (SSGC) hardware based on cRIO and _Khorjin_ library. 
  -  SSGC houses the secondary control functionalities for BESS which runs in a microgrid simulated in Typhoon HIL 604. 
