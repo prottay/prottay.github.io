@@ -16,6 +16,7 @@ redirect_from:
 - A test-infrastructure is proposed that uses low-voltage signals to validate the functionalities of a PMU under test. The test infrastructure is based on National Instruments’ cRIO hardware.
 - The test-hardware can be easily controlled by a user from the GUI-based software designed in LabVIEW.
 - A prototype PMU is put under the tests (using our test-suite) and its performance is analyzed and compared with the others available in literature.
+- Possible adjustments of the test-suit on hardware and software ends are proposed. 
 
 ------
 
