@@ -10,7 +10,7 @@ author_profile: true -->
 1. **Ph.D.** in Electrical Engineering (2021)
   - [Rensselaer Polytechnic Institute](https://en.wikipedia.org/wiki/Rensselaer_Polytechnic_Institute)
   - Advisor: Luigi Vanfretti
-  - Thesis title: Synchrophasor-Based Monitoring, Control, and Protection for Distributed Energy Resources
+  - Thesis title: [Synchrophasor-Based Monitoring, Control, and Protection for Distributed Energy Resources](https://dspace.rpi.edu/handle/20.500.13015/6139)
 
 2. **M. Tech.** in Electrical Engineering (2016)
   - [IIT Bombay](https://en.wikipedia.org/wiki/IIT_Bombay)
