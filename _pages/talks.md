@@ -18,7 +18,7 @@ author_profile: true -->
 
 ## Doctoral Defense
 
-[1] _Synchrophasor-based monitoring, control, and protection for distributed energy resources_, Doctoral defense, Rensselaer Polytechnic Institute, Department of Electrical Engineering, November 2021. [presentation](https://docs.google.com/presentation/d/1wt4sBumGiaz3mV13HBDf5SwBYuU0oK6T3WXQyBSh8m4/edit?usp=sharing), [PDF](https://drive.google.com/file/d/1GHsKdk4sXxY5itRlAgBVNNoyWhogmbou/view?usp=sharing). 
+[1] _Synchrophasor-based monitoring, control, and protection for distributed energy resources_, Doctoral defense, Rensselaer Polytechnic Institute, Department of Electrical Engineering, November 2021. [[_Presentation_]](https://docs.google.com/presentation/d/1wt4sBumGiaz3mV13HBDf5SwBYuU0oK6T3WXQyBSh8m4/edit?usp=sharing), [[_PDF_]](https://drive.google.com/file/d/1GHsKdk4sXxY5itRlAgBVNNoyWhogmbou/view?usp=sharing). 
 
 
 ## Posters
