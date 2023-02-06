@@ -7,14 +7,15 @@ author_profile: true -->
 
 ## Presentations
 
+[1] _Real-time experiments with Distributed Energy Resources (DER): Experiences in industry(DERMS Lab, Eaton) and academia(ALSETLab, RPI)_, Invited Talk for _Power Engineering Analysis (ECSE-4110/6110)_ Dept of ECSE, RPI, Troy, NY, Spring 2023. [📃](https://drive.google.com/file/d/1RsjYqBxokfkOle209xfQZ_OVivMXuyHl/view?usp=sharing)
 
-[1] _Real-Time Controller Hardware-in-the-Loop Study of Ground Fault Overvoltages in Inverter-Based DERs_, IEEE PES Colloquium 2021, Schenectady, New York. [📹](https://www.youtube.com/watch?v=6ypq8IHOLaU)
+[2] _Real-Time Controller Hardware-in-the-Loop Study of Ground Fault Overvoltages in Inverter-Based DERs_, IEEE PES Colloquium 2021, Schenectady, New York. [📹](https://www.youtube.com/watch?v=6ypq8IHOLaU)
 
-[2] _Real-Time Simulation Models for Photovoltaic Cells and Arrays in Opal-RT and Typhoon -HIL_, IEEE PES General Meeting 2020, Montreal. [📹](https://www.youtube.com/watch?v=DFS1ahd1cUw)  
+[3] _Real-Time Simulation Models for Photovoltaic Cells and Arrays in Opal-RT and Typhoon -HIL_, IEEE PES General Meeting 2020, Montreal. [📹](https://www.youtube.com/watch?v=DFS1ahd1cUw)  
 
-[3] _FluxPMU — A Maker’s Guide of a DIY Synchronized Phasor Measurement Unit_, IEEE Innovative Smart Grid Technologies (ISGT) North America 2021. [📹](https://www.youtube.com/watch?v=o2goo4YN2mY) 
+[4] _FluxPMU — A Maker’s Guide of a DIY Synchronized Phasor Measurement Unit_, IEEE Innovative Smart Grid Technologies (ISGT) North America 2021. [📹](https://www.youtube.com/watch?v=o2goo4YN2mY) 
 
-[4] _A Reconfigurable Synchrophasor Synchronization Gateway & Controller Architecture for DERs_, IEEE Smart Grid Synchronized Measurement and Analytics (SGSMA) 2022, Croatia. [📹](https://www.youtube.com/watch?v=COrVNv4JyvA)
+[5] _A Reconfigurable Synchrophasor Synchronization Gateway & Controller Architecture for DERs_, IEEE Smart Grid Synchronized Measurement and Analytics (SGSMA) 2022, Croatia. [📹](https://www.youtube.com/watch?v=COrVNv4JyvA)
 
 ## Doctoral Defense
 
