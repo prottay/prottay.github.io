@@ -17,7 +17,7 @@ author_profile: true -->
     - CHIL test development for investigating the impact of GFOV/SPOV/LROV in inverter based DERs.
     - Experimentation with networking and protocols in a digital power system simulation lab. 
   
-2. Graduate Research Assistant, [EmSys Lab, IIT Bombay](https://www.ee.iitb.ac.in/old_web/research/labs/emsys) (2013-2016)
+2. Graduate Research Assistant, [EmSys Lab, IIT Bombay](https://www.ee.iitb.ac.in/web/labs/embedded-systems-emsys-lab/) (2013-2016)
     - Implementation and testing of a C-to-FPGA pathway based on AHIR v2 tools.
     - Management and maintenance of reconfigurable computing resources. 
     - Experimentation with _IMAGE_ Simulation Accelerator for Xilinx FPGAs.   
