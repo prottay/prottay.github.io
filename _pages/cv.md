@@ -28,7 +28,7 @@ redirect_from:
  -  cRIO based HW-SW setup to parse, synchronize, timestamp, and display multiple C37.118 streams.  
  -  The PMU streams are corrupted with external networking hardware. 
  -  The network is tampered with delay, data-drip and jitter to test its resillience.
- -   -  Demonstrated in: [NASPI Meeting]{https://www.naspi.org/node/766}
+ -   -  Demonstrated in: [NASPI Meeting](https://www.naspi.org/node/766)
 
 ------
 
@@ -42,7 +42,7 @@ redirect_from:
  -  Examines whether conventional neutral grounding, which eliminates this GFOV issue in synchronous generators- are necessary for inverter-based systems. 
  -  Tests the effectiveness of SPOV mechanism against GFOV and LROV. 
  -  Experiments repeated with different load pf, different generation-to-load ratios (GLR), different SPOV settings, and different grounding transformer sizes. 
- -  Demonstrated in: [Newslink]{https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy}, [IEEE Colloquium]{https://events.vtools.ieee.org/m/278815}
+ -  Demonstrated in: [Newslink](https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy), [IEEE Colloquium](https://events.vtools.ieee.org/m/278815)
 ------
 
 **SSGC based resillient networked-control for BESS:**
@@ -54,7 +54,7 @@ redirect_from:
  -  The network for the PMU placed at BESS is attacked with external hardware. 
  -  Network delay, data-drops and jitters were injected in the network to test the robustness of the control-network.
  -  An LPF was incorporated to get rid of all high frequency components of the control signal, to protect the Li-ion battery.   
- -  Demonstrated in: [Newslink]{https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy}
+ -  Demonstrated in: [Newslink](https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy)
 
 
 
