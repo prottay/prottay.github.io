@@ -28,6 +28,7 @@ author_profile: true -->
 
 1. Specialist, **DERMS Center of Excellence, Eaton** (2022-present)
     - Communication protocols for real-time industrial applications. 
+    - Deployment of custom microservices for DER applications on IoT edge devices.
     - RT model implementation for DERs. 
     - Secondary control deployment for real-time microgrid applications.
   
