@@ -8,7 +8,7 @@ author_profile: true -->
 ## In International Journals:
 
 
-J1. _Real-Time Battery Energy Storage System Control using a Reconfigurable Synchrophasor-based Synchronization Gateway & Control (SSGC) Hardware System_, **Prottay M. Adhikari**, Hao Chang, Luigi Vanfretti, Koushik Kar, in Energies, MDPI (Spcial Issue: Advanced Electric Power Systems), Sep. 2023. [📄](https://drive.google.com/file/d/18hkGjpB7vbC8IKG5zp_juH2FK3wj1L-n/view?usp=sharing)
+J1. _Real-time Control of a Battery Energy Storage System using a Reconfigurable Synchrophasor-based Control System_, **Prottay M. Adhikari**, Hao Chang, Luigi Vanfretti, Koushik Kar, in Energies, MDPI (Spcial Issue: Advanced Electric Power Systems), Sep. 2023. [📄](https://drive.google.com/file/d/18hkGjpB7vbC8IKG5zp_juH2FK3wj1L-n/view?usp=sharing)
 
 J2. _Analysis of Transient Overvoltages and Self protection Overvoltage of PV Inverters through RT-CHIL_, **Prottay M. Adhikari**, Luigi Vanfretti, Anja Banjac, Roland Bründlinger, Michael Ruppert, Michael Ropp, in Elsevier Electric Power Systems Research (EPSR), vol 214A, Jan. 2023.[📄](https://drive.google.com/file/d/18V0aQ3LBBUVa4sLx2AA0Z1RVZPcLylca/view)
 
