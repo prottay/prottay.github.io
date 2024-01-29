@@ -10,7 +10,6 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
-gem 'jekyll-theme-dark-minimal', '~> 0.1.4'
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
@@ -20,6 +19,8 @@ gem 'jekyll-theme-dark-minimal', '~> 0.1.4'
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
+gem 'jekyll-theme-dark-minimal', '~> 0.1.4'
+
 group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
