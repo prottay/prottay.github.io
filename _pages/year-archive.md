@@ -27,8 +27,9 @@ author_profile: true -->
 ## Industrial Experience: 
 
 1. Specialist, **DERMS Center of Excellence, Eaton** (2022-present)
-    - Communication protocols for real-time industrial applications. 
+    - Communication protocols for real-time industrial applications (CAN bus, OCPP 1.6/2.0, PTP, NTP, IEEE 2030.5). 
     - Deployment of custom microservices for DER applications on IoT edge devices.
+    - Automated firmware deployment for interfacing third party devices with proprietary substation automation platform.
     - RT model implementation for DERs. 
     - Secondary control deployment for real-time microgrid applications.
   
