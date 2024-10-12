@@ -17,11 +17,9 @@ redirect_from:
 - Possible adjustments of the test-suit on hardware and software ends are proposed.
 - Demonstrated in: [Congressional visit in 2021](https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy), [IEEE Colloquium 2021](https://events.vtools.ieee.org/m/278815)
 
-<br>
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/6533632/191937875-22fb1072-202e-4e8b-bdda-5f5ac7e5d33d.gif">
 
-<br>
 
 
 **Networking experiments on _Khorjin_ based synchrophasor synchornization gateway:**
@@ -32,17 +30,14 @@ redirect_from:
  -  The network is tampered with delay, data-drip and jitter to test its resillience.
  -  Demonstrated in: [NASPI Meeting 2019](https://www.naspi.org/node/766)
 
-<br>
 
-<img align="left" width="50%" src="https://user-images.githubusercontent.com/6533632/191948548-a831b3dd-161d-42b5-8dc0-e14ac464c68f.gif">
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/6533632/191948548-a831b3dd-161d-42b5-8dc0-e14ac464c68f.gif">
 
-<br>
 
 
 
 ------
 
-<br>
 
 
 **GFOV investigation in RT for DERs:**
@@ -52,15 +47,12 @@ redirect_from:
  -  Tests the effectiveness of SPOV mechanism against GFOV and LROV. 
  -  Demonstrated in: [Congressional visit in 2021](https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy), [IEEE Colloquium 2021](https://events.vtools.ieee.org/m/278815)
 <!--  -  Experiments repeated with different load pf, different generation-to-load ratios (GLR), different SPOV settings, and different grounding transformer sizes.  -->
-<br>
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/6533632/191942657-3789afaf-bcd0-4fd2-9f74-8f5eb8c771bd.gif">
 
-<br>
 
 
 ------
-<br>
 
 **SSGC based resillient networked-control for BESS:**
 
@@ -70,9 +62,8 @@ redirect_from:
  -  Network delay, data-drops and jitters were injected in the network to test the robustness of the control-network.
  -  An LPF was incorporated to get rid of all high frequency components of the control signal, to protect the Li-ion battery.   
  -  Demonstrated in: [Congressional visit in 2021](https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy)
-<br>
 
-<img align="left" width="50%" src="https://user-images.githubusercontent.com/6533632/200471835-15738857-0e7c-47aa-95dc-2611f8115c04.gif">
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/6533632/200471835-15738857-0e7c-47aa-95dc-2611f8115c04.gif">
 
 
 
