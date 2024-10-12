@@ -18,15 +18,7 @@ redirect_from:
 
 <br>
 
-<img align="right" width="100%" src="https://user-images.githubusercontent.com/6533632/191937875-22fb1072-202e-4e8b-bdda-5f5ac7e5d33d.gif">
-
-
-<br>
-
-------
-
-------
-
+<img align="right" width="80%" src="https://user-images.githubusercontent.com/6533632/191937875-22fb1072-202e-4e8b-bdda-5f5ac7e5d33d.gif">
 
 <br>
 
@@ -41,7 +33,7 @@ redirect_from:
 
 <br>
 
-<img align="center" width="100%" src="https://user-images.githubusercontent.com/6533632/191948548-a831b3dd-161d-42b5-8dc0-e14ac464c68f.gif">
+<img align="center" width="80%" src="https://user-images.githubusercontent.com/6533632/191948548-a831b3dd-161d-42b5-8dc0-e14ac464c68f.gif">
 
 <br>
 
@@ -79,7 +71,7 @@ redirect_from:
  -  Demonstrated in: [Congressional visit in 2021](https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy)
 <br>
 
-<img align="right" width="100%" src="https://user-images.githubusercontent.com/6533632/200471835-15738857-0e7c-47aa-95dc-2611f8115c04.gif">
+<img align="right" width="80%" src="https://user-images.githubusercontent.com/6533632/200471835-15738857-0e7c-47aa-95dc-2611f8115c04.gif">
 
 
 
