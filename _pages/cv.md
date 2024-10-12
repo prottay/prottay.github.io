@@ -34,7 +34,7 @@ redirect_from:
  -  The network is tampered with delay, data-drip and jitter to test its resillience.
  -  Demonstrated in: [NASPI Meeting 2019](https://www.naspi.org/node/766)
 
-<img align="right" width="100%" src="https://user-images.githubusercontent.com/6533632/191948548-a831b3dd-161d-42b5-8dc0-e14ac464c68f.gif">
+<img align="center" width="100%" src="https://user-images.githubusercontent.com/6533632/191948548-a831b3dd-161d-42b5-8dc0-e14ac464c68f.gif">
 
 
 
