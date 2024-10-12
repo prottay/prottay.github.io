@@ -23,7 +23,7 @@ redirect_from:
 
 **Networking experiments on _Khorjin_ based synchrophasor synchornization gateway:**
 
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/6533632/191948548-a831b3dd-161d-42b5-8dc0-e14ac464c68f.gif">
+<img align="right" width="100%" src="https://user-images.githubusercontent.com/6533632/191948548-a831b3dd-161d-42b5-8dc0-e14ac464c68f.gif">
 
  -  cRIO based HW-SW setup to parse, synchronize, timestamp, and display multiple C37.118 streams.  
  -  The PMU streams are corrupted with external networking hardware. 
@@ -36,7 +36,7 @@ redirect_from:
 
 **GFOV investigation in RT for DERs:**
 
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/6533632/191942657-3789afaf-bcd0-4fd2-9f74-8f5eb8c771bd.gif">
+<img align="right" width="100%" src="https://user-images.githubusercontent.com/6533632/191942657-3789afaf-bcd0-4fd2-9f74-8f5eb8c771bd.gif">
 
  -  Investigates the presence and effect of Ground Fault Overvoltage (GFOV) phenomenon in Grid-Connected PV inverters. 
  -  Examines whether conventional neutral grounding, which eliminates this GFOV issue in synchronous generators- are necessary for inverter-based systems. 
@@ -48,7 +48,7 @@ redirect_from:
 
 **SSGC based resillient networked-control for BESS:**
 
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/6533632/200471835-15738857-0e7c-47aa-95dc-2611f8115c04.gif">
+<img align="right" width="100%" src="https://user-images.githubusercontent.com/6533632/200471835-15738857-0e7c-47aa-95dc-2611f8115c04.gif">
 
  -  Implementation of a synchrophasor synchronization gateway and control (SSGC) hardware based on cRIO and _Khorjin_ library. 
  -  SSGC houses the secondary control functionalities for BESS which runs in a microgrid simulated in Typhoon HIL 604. 
