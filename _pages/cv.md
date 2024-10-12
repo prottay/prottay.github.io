@@ -15,6 +15,7 @@ redirect_from:
 - The test-hardware can be easily controlled by a user from the GUI-based software designed in LabVIEW.
 - A prototype PMU is put under the tests (using our test-suite) and its performance is analyzed and compared with the others available in literature.
 - Possible adjustments of the test-suit on hardware and software ends are proposed.
+- Demonstrated in: [Congressional visit in 2021](https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy), [IEEE Colloquium 2021](https://events.vtools.ieee.org/m/278815)
 
 <br>
 
@@ -71,7 +72,7 @@ redirect_from:
  -  Demonstrated in: [Congressional visit in 2021](https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy)
 <br>
 
-<img align="right" width="80%" src="https://user-images.githubusercontent.com/6533632/200471835-15738857-0e7c-47aa-95dc-2611f8115c04.gif">
+<img align="center" width="80%" src="https://user-images.githubusercontent.com/6533632/200471835-15738857-0e7c-47aa-95dc-2611f8115c04.gif">
 
 
 
