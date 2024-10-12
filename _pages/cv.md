@@ -11,6 +11,8 @@ redirect_from:
 
 **PMU Pre-compliance test-suite:**
 
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/6533632/191937875-22fb1072-202e-4e8b-bdda-5f5ac7e5d33d.gif">
+
 - A test-infrastructure is proposed that uses low-voltage signals to validate the functionalities of a PMU under test. The test infrastructure is based on National Instruments’ cRIO hardware.
 - The test-hardware can be easily controlled by a user from the GUI-based software designed in LabVIEW.
 - A prototype PMU is put under the tests (using our test-suite) and its performance is analyzed and compared with the others available in literature.
@@ -18,7 +20,7 @@ redirect_from:
 - Demonstrated in: [Congressional visit in 2021](https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy), [IEEE Colloquium 2021](https://events.vtools.ieee.org/m/278815)
 
 
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/6533632/191937875-22fb1072-202e-4e8b-bdda-5f5ac7e5d33d.gif">
+
 
 
 
