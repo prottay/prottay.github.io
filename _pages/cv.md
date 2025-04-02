@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+**BESS control and protection system demonstrated through peer to peer communication (Eaton \& Cisco collaboration):**
+
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/6533632/191937875-22fb1072-202e-4e8b-bdda-5f5ac7e5d33d.gif">
+
+- Demonstrated as a part of edge-computing demonstrations in[ utility broadband alliance (UBBA) plugfest 2024]([url](https://www.ubba.com/ubba-resources/2024-ubba-plugfest-demonstration-edge-computing/)). 
+- Proof of concept concencus based control system development for BESS featuring CL-7 voltage regulator, BESS, and CBC8000 capbank controller.
+- Power and system modeling done in Typhoon HIL.
+- Peer to peer communication achieved by utilizing Cisco hardware. 
+- Full video available here: [Youtube Link]([https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy](https://www.youtube.com/watch?v=w0MT3KnUENI)).
+
+
+
+------
+
+
 **PMU Pre-compliance test-suite:**
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/6533632/191937875-22fb1072-202e-4e8b-bdda-5f5ac7e5d33d.gif">
