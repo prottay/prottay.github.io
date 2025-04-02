@@ -11,7 +11,6 @@ redirect_from:
 
 **BESS control and protection system demonstrated through peer to peer communication (Eaton \& Cisco collaboration):**
 
-<img align="right" width="50%" src="https://user-images.githubusercontent.com/6533632/191937875-22fb1072-202e-4e8b-bdda-5f5ac7e5d33d.gif">
 
 - Demonstrated as a part of edge-computing demonstrations in[ utility broadband alliance (UBBA) plugfest 2024]([url](https://www.ubba.com/ubba-resources/2024-ubba-plugfest-demonstration-edge-computing/)). 
 - Proof of concept concencus based control system development for BESS featuring CL-7 voltage regulator, BESS, and CBC8000 capbank controller.
