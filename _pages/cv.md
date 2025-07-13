@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-- Demonstrated as a part of edge-computing demonstrations in[ utility broadband alliance (UBBA) plugfest 2024]([url](https://www.ubba.com/ubba-resources/2024-ubba-plugfest-demonstration-edge-computing/)). 
+- Demonstrated as a part of edge-computing demonstrations in[ utility broadband alliance (UBBA) plugfest 2024](https://www.ubba.com/ubba-resources/2024-ubba-plugfest-demonstration-edge-computing/). 
 - Proof of concept concencus based control system development for BESS featuring CL-7 voltage regulator, BESS, and CBC8000 capbank controller.
 - Power and system modeling done in Typhoon HIL.
 - Peer to peer communication achieved by utilizing Cisco hardware. 
