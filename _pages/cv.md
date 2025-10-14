@@ -67,7 +67,7 @@ redirect_from:
  -  Investigates the presence and effect of Ground Fault Overvoltage (GFOV) phenomenon in Grid-Connected PV inverters. 
  -  Examines whether conventional neutral grounding, which eliminates this GFOV issue in synchronous generators- are necessary for inverter-based systems. 
  -  Tests the effectiveness of SPOV mechanism against GFOV and LROV. 
- -  Demonstrated in: [Congressional visit in 2021](https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy), [IEEE Colloquium 2021](https://events.vtools.ieee.org/m/278815)
+ -  Demonstrated in: [Congressional visit in 2021](https://news.rpi.edu/content/2021/09/08/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy), [IEEE Colloquium 2021](https://events.vtools.ieee.org/m/278815)
 <!--  -  Experiments repeated with different load pf, different generation-to-load ratios (GLR), different SPOV settings, and different grounding transformer sizes.  -->
 
 
@@ -85,7 +85,7 @@ redirect_from:
  -  The network for the PMU placed at BESS is attacked with external hardware. 
  -  Network delay, data-drops and jitters were injected in the network to test the robustness of the control-network.
  -  An LPF was incorporated to get rid of all high frequency components of the control signal, to protect the Li-ion battery.   
- -  Demonstrated in: [Congressional visit in 2021](https://cisl.rpi.edu/news/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy)
+ -  Demonstrated in: [Congressional visit in 2021](https://news.rpi.edu/content/2021/09/08/rensselaer-welcomes-congressional-bipartisan-discussion-future-energy)
 
 
 
