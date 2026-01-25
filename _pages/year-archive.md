@@ -26,11 +26,13 @@ author_profile: true -->
 
 ## Industrial Experience: 
 
-1. Specialist, **DERMS Center of Excellence, Eaton** (2022-present)
+1. Lead Engineer, **DERMS Center of Excellence, Eaton** (2022-present)
     - Communication protocols for real-time industrial applications (CAN bus, OCPP 1.6/2.0, PTP, NTP, IEEE 2030.5). 
     - Deployment of custom microservices for DER applications on IoT edge devices.
     - Automated firmware deployment for interfacing third party devices with proprietary substation automation platform.
-    - RT model implementation for DERs. 
+    - RT model implementation for DERs.
+    - Co-ordinated control and protection operation with consensus algorithm.
+    - RT deployment of EV charging station control algorithm.
     - Secondary control deployment for real-time microgrid applications.
   
 2. Graduate Research Intern, **AgiLE Lab, EPRI** (Summer 2021)
